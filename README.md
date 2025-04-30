@@ -22,7 +22,7 @@ My projects are budding — your stars help them bloom! 🌟(*-对不起我太�
 🚴♂️ Casual cyclist – my legs protest beyond 100km/day, but the breeze keeps me hooked!
 
 ### Let’s Connect!
-Whether you’d like to discuss LLM alignment, share book recommendations, or just geek out about coding (or cycling routes!), feel free to reach out at [mail](brevity_d@mail.ustc.edu.cn). 
+Whether you’d like to discuss LLM alignment, share book recommendations, or just geek out about coding (or cycling routes!), feel free to reach out at [mail](mailto:brevity_d@mail.ustc.edu.cn). 
 
 Always happy to meet curious minds! ✨
 
@@ -40,10 +40,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrevityD)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
-
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
