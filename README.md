@@ -1,6 +1,6 @@
 ## Hi there, I'm Brevity_D 👋
 
-I’m BrevityD (you can also call me Alexander), a Master’s student in Artificial Intelligence at the University of Science and Technology of China (USTC), graduating in July 2026. 
+I’m BrevityD (you can also call me Alexander😀), a Master’s student in Artificial Intelligence at the University of Science and Technology of China (USTC), graduating in July 2026. 
 
 My research focuses on the post training of LLMs (a.k.a. Large Language Models); KRR (a.k.a. Knowledge Representation & Reasoning); and exploring LLM Agents.
 
@@ -11,6 +11,8 @@ Proficient in Python | Once a Microcontroller with C
 Solid experience with Git workflows (mostly in private repos and self-hosted Gitea) 
 
 Currently building a rule-based reasoning + LLM verifier (to pair with reward models) – code will open once the paper was submited! 📄➡️🔓
+
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=BrevityD&show_icons=trueline_height=21" /> </div>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrevityD" /> </div>
 
