@@ -12,7 +12,7 @@ Solid experience with Git workflows (mostly in private repos and self-hosted Git
 
 Currently building a rule-based reasoning + LLM verifier (to pair with reward models) – code will open once the paper was submited! 📄➡️🔓
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrevityD" /> </div>
 
 My projects are budding — your stars help them bloom! 🌟(*-对不起我太菜了都没有什么star路过的好心人给点给点-*)
 
