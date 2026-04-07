@@ -29,7 +29,7 @@ Music:
 - Psychonaut4 – Have a Nice Trip
 - Jefferson Airplane - White Rabbit
 
-Blog: [结垒](blog.brevityd.top)
+Blog: [结垒](https://blog.brevityd.top)
 
 Contact: [mail](mailto:brevity_d@mail.ustc.edu.cn)
 
